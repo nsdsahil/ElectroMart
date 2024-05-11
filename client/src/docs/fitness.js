@@ -1,0 +1,222 @@
+const fitness=[
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10141089/prod_18916985219?src=https%3A%2F%2Fcdn3.ykso.co%2Fimages%2F2021%2F03%2F05%2F13%2F6042763b72b62117eb525d3d-transformed.jpeg&d=b115ac51689b3098a5c1aa4c2fde4a0c239ebf26&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "ONLINE ONLY",
+      "ng-star-inserted": "Extra 10% off",
+      "description": "Select fitness, sporting goods & game room",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "see details",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10160405/prod_9635634732?src=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F419RQPo9SXL.jpg&d=3b1bba14540eaebd1ee4c8724781c8a203845106&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Top fitness brands",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/image/spin_prod_222012901?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "ONLINE ONLY",
+      "ng-star-inserted": "Extra 10% off",
+      "description": "Select fitness & exercise",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "see details",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/10004352/prod_21298318212?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Select treadmills & incline trainers",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/mp/10167855/prod_16364966408?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Strength training equipment",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/10122587/prod_21128215112?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Select elliptical trainers",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10671825/prod_7686349816?src=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0525%2F9611%2F3574%2Fproducts%2FQ200X-model2_1800x1800.png.jpg%3Fv%3D1617423525&d=8f5f466389aa8e34a652ff36f86062d0150c3006&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Indoor, upright & recumbent exercise cycles",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/7019/prod_10588781002?src=https%3A%2F%2Flisting-images.azureedge.net%2Fcontent-prod-83022%2F83022_4291200.jpg%3F949963da-dac6-4599-a4c0-d618375d4ce7&d=b1442a283b59ae8d142edf2be2387b01a253321b&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 25% off",
+      "description": "Razor scooters & accessories",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/image/spin_prod_20460901?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "ONLINE ONLY",
+      "ng-star-inserted": "Extra 10% off",
+      "description": "Select fan shop gear",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "see details",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/10022586/prod_1419800112?wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "ONLINE ONLY",
+      "ng-star-inserted": "Extra 10% off",
+      "description": "Select team sports equipment",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "see details",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/27954/prod_15095280217?src=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F31cSEJICFWL.jpg%3Bhttps%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F21CJe2c23CL.jpg&d=9865f9b3c7e8b211c3748083179fccaf4f8f4367&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 30% off",
+      "description": "Yoga & pilates accessories",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10153480/prod_18970188624?src=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61jtnR0VQGL.jpg&d=4c399720aa14fff31df9e1edf703f0150a2be8f4&hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "ONLINE ONLY",
+      "ng-star-inserted": "Extra 10% off",
+      "description": "Select game tables & accessories",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "see details",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/10164060/prod_26703956512?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Rowers",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/spin/10164060/prod_19084495512?hei=300&wid=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "",
+      "ng-star-inserted": "Up to 40% off",
+      "description": "Top strength & weight training brands",
+      "seller-info": "Sold by Various Sellers",
+      "see-details": "",
+      "textBadge": "",
+      "badge-container": "",
+      "category":"fintess"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10153191/prod_19175915424?src=https%3A%2F%2Fd3d71ba2asa5oz.cloudfront.net%2F12023025%2Fimages%2Fsp37746wldkwa7161.jpg&d=ee8a537bbf0f296207d019fa38e21e16b82e8df6&wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$999.99",
+      "description": "Costway SuperFit 4.75HP Electric Folding Treadmill W/APP Auto Incline Preset Programs Speakers",
+      "seller-info": "Sold by factorydirectsale",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "33%",
+      "money": "$1499.99"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/36562/prod_17649384628?src=https%3A%2F%2Fimage.virventures.com%2FSPTA%2FAB-766.jpg&d=631698bacdcfdfe0428180149e697355a6ebd5c4&wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$198.78",
+      "description": "SPT Whole body vibration machine",
+      "seller-info": "Sold by Vir Ventures",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "28%",
+      "money": "$278.29"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10153191/prod_19173572224?src=https%3A%2F%2Fd3d71ba2asa5oz.cloudfront.net%2F12007539%2Fimages%2Fsp37040wh1.jpg&d=7b82b836e4aaba9898a2fdf03d4bc9051102e52b&wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$189.99",
+      "description": "Costway SuperFit Indoor Cycling Stationary Bike Silent Belt Drive Adjustable Resistance",
+      "seller-info": "Sold by factorydirectsale",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "33%",
+      "money": "$284.99"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10153191/prod_19175905124?src=https%3A%2F%2Fd3d71ba2asa5oz.cloudfront.net%2F12005438%2Fimages%2Fsp37619usrewa12101.jpg&d=2256e3067365045c253b5137eae52259ad031f4a&wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$279.99",
+      "description": "Costway Superfit 2.25HP Electric Running Machine Treadmill Bluetooth Speaker APP Control Red",
+      "seller-info": "Sold by factorydirectsale",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "33%",
+      "money": "$419.99"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/i/mp/10169836/prod_11876126813?wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$199.95",
+      "description": "Gymax Cycling Stationary Bike Fitness Silent Belt Drive Adjustable Resistance Indoor Home Gym",
+      "seller-info": "Sold by Gymax",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "33%",
+      "money": "$299.99"
+    },
+    {
+      "img-fluid-product-src": "https://c.shld.net/rpx/i/s/pi/mp/10160405/prod_9675040332?src=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51q7GG6q0yL.jpg&d=160ddcc4ab4168b15a06f245abf51b719738b376&wid=300&hei=300&op_sharpen=1&qlt=85",
+      "onlineOnly": "FREE SHIPPING",
+      "ng-star-inserted": "$38.63",
+      "description": "Black Mountain Products Resistance Band Set with Door Anchor, Ankle Strap, Exercise Chart, and Carrying Case",
+      "seller-info": "Sold by Vir Ventures",
+      "see-details": "",
+      "textBadge": "SAVE",
+      "badge-container": "28%",
+      "money": "$54.08"
+    }
+  ]
