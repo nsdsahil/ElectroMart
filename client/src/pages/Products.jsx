@@ -86,20 +86,10 @@ export const Products = ({ productsData }) => {
 	return (
 		<Box>
 			<Flex justifyContent={"space-between"}>
-				{!isMobile && (
-					<Box
-						boxShadow={
-							"rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px"
-						}
-						padding={2}
-						width={"30%"}
-					>
-						<Filter />
-					</Box>
-				)}
 				<Box
-					width={["98%", "98", "98%", "69%", "69%", "69%"]}
+					width={["98%", "98", "98%", "69%", "95%", "95%"]}
 					padding={4}
+					margin={"auto"}
 					boxShadow={
 						"rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px"
 					}

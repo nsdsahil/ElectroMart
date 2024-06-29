@@ -10,7 +10,6 @@ const paymentRouter = require("./controllers/payment.controller");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 dotenv.config();
-
 app.use(
 	cors({
 		origin:["http://127.0.0.1:5173","https://sears-clone.vercel.app"],

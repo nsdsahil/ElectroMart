@@ -114,18 +114,8 @@ const Navbar = (props) => {
 					</HStack>
 
 					<Flex>
-						{!isMobile && (
-							<Button
-								variant="ghost"
-
-								backgroundColor={color.primary}
-								color={color.secondary}
-							>
-								<b>My Orders</b>
-							</Button>
-						)}
 						{isLogin ? <Logout /> : <Login />}
-						{!isLogin && <Profile />}
+						
 						<CartSection />
 					</Flex>
 				</Flex>

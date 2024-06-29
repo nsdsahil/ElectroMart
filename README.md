@@ -1,8 +1,8 @@
-# Sears Ecommerce Platform
+# ElectroMart Ecommerce Platform
 
 ![Sears Logo](https://cdn.cookielaw.org/logos/cc9a8230-03c2-46ab-afe1-51ced9dc71c0/71ac662c-41e9-44cb-8c9b-44652e593b65/c8c533ef-64bd-4950-af09-34e70e96b405/sears_logo.png)
 
-Sears is a modern and sophisticated ecommerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). With Sears, you can create, manage, and scale your online store effortlessly. Whether you're a small business owner or an enterprise-level company, Sears provides you with the tools you need to succeed in the digital marketplace.
+ElectroMart is a modern and sophisticated ecommerce platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). With ElectroMart, you can create, manage, and scale your online store effortlessly. Whether you're a small business owner or an enterprise-level company, ElectroMart provides you with the tools you need to succeed in the digital marketplace.
 
 ## Features
 
@@ -43,20 +43,20 @@ Sears is a modern and sophisticated ecommerce platform built using the MERN stac
 
 ## Installation
 
-To run Sears locally, follow these steps:
+To run ElectroMart locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/sears.git`
-2. Navigate to the project directory: `cd sears`
+1. Clone this repository: `git clone https://github.com/yourusername/ElectroMart.git`
+2. Navigate to the project directory: `cd ElectroMart`
 3. Install dependencies for the server: `npm install`
 4. Navigate to the client directory: `cd client`
 5. Install dependencies for the client: `npm install`
 6. Return to the root directory: `cd ..`
 7. Start the server: `npm run server`
-8. Start the client: `npm run client`
+8. Start the client: `npm run dev`
 
 ## Usage
 
-- Visit the deployed site at [www.sears.com](https://www.sears.com)
+- Visit the deployed site at [www.ElectroMart.com](https://electro-mart-lime.vercel.app/)
 - Sign up for an account or log in if you're an existing user.
 - Browse through the wide range of products available.
 - Add products to your cart and proceed to checkout.
@@ -91,7 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need for a user-friendly and scalable ecommerce platform.
 - We would like to thank the open-source community for their invaluable contributions to the tools and libraries used in this project.
-
-## Contact
-
-For any inquiries or support, please contact our team at contact@sears.com.

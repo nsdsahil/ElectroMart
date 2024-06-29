@@ -17,8 +17,8 @@ import {
 export const Footer = (props) => {
 	return (
 		<>
-			<FooterCategories />
-			<MiddleFooter />
+
+			
 			<BottomFooter />
 		</>
 	);

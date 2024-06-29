@@ -68,7 +68,6 @@ const Home = () => {
     <GridBanner2 heading={"OUR APPlIANCES PROMISE"}/>
     <Categories categories={promise} heading={"OUR APPlIANCES PROMISE"}/>
     <FlexBanner/>
-    <Guide heading={"Sears Guide"} docs={guide}/>
 	<ProductSlider2 products={products2}/>
     
     
